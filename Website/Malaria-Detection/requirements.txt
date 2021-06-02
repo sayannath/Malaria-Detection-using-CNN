@@ -202,7 +202,7 @@ text-unidecode==1.2
 tf==1.0.0
 tflearn==0.3.2
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.1
 wrapt==1.11.2
 WTForms==2.3.1
